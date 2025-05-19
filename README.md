@@ -1,1 +1,1 @@
-# Brain-Stroke-Prediction-Using-CNN
+# Brain_Stroke_Prediction
